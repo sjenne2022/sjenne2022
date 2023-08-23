@@ -5,7 +5,7 @@
 
 - 🔭 An online learning platform for the trades **Y3nko**
 
-- 🌱 I’m currently learning React, NextJS, and Tailwind CSS **React, NextJS, and Tailwind CSS**
+- 🌱 I’m currently learning **React, NextJS, and Tailwind CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sjenne2022](https://github.com/sjenne2022)
 
