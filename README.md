@@ -24,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjenne2022&show_icons=true&locale=en&layout=compact" alt="sjenne2022" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sjenne2022&show_icons=true&locale=en" alt="sjenne2022" /></p>
+
+<a href="https://app.daily.dev/samueljenne"><img src="https://api.daily.dev/devcards/dc204cd8ae6e4ff3a396d80bc5c8bc90.png?r=mrn" width="400" alt="Samuel Jenne's Dev Card"/></a>
