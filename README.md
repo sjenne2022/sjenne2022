@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjenne2022&label=Profile%20views&color=0e75b6&style=flat" alt="sjenne2022" /> </p>
 
-- 🔭 An online learning platform for the trades **Y3nko**
+- 🔭 An online e-commerce platform for African vendors **CAM**
 
-- 🌱 I’m currently learning **React, NextJS, and Tailwind CSS**
+- 🌱 I’m currently improving on my knowledge of **React, NextJS, and Tailwind CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sjenne2022](https://github.com/sjenne2022)
 
